@@ -10,7 +10,7 @@
 		"allowJs": true,
 		"outDir": "./dist",
 		"esModuleInterop": true,
-		"forceConsistentCasingInFileNames": false,
+		"forceConsistentCasingInFileNames": true,
 		"strict": true,
 		"noImplicitAny": true,
 		"strictPropertyInitialization": false
